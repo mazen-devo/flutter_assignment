@@ -1,3 +1,3 @@
-# flutter_application_1
+# Flutter Assignment
 
 A new Flutter project.
